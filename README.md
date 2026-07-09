@@ -95,6 +95,20 @@ URL de Vercel:
 Pendiente: colocar aquí la URL generada por Vercel
 ```
 
+## Repositorio en GitHub
+
+Repositorio principal:
+
+```text
+https://github.com/GabrielCarriel1/sistema-pedidos-restaurante-devops
+```
+
+Repositorio alternativo creado con la segunda cuenta autenticada:
+
+```text
+https://github.com/cgabrielcarrielm/sistema-pedidos-restaurante-devops
+```
+
 ## Estructura del proyecto
 
 ```text
